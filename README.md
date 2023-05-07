@@ -1,3 +1,3 @@
 # JupyterNotebook
 Jupyter Notebook Lab
-It's a makrdown file in this repository
+It's a markdown file in this repository
